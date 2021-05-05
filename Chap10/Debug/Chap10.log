@@ -1,0 +1,4 @@
+﻿  arry.c
+D:\GitRepository\C\Chap10\arry.c(13,9): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+D:\GitRepository\C\Chap10\arry.c(15,9): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  Chap10.vcxproj -> D:\GitRepository\C\test\Debug\Chap10.exe
