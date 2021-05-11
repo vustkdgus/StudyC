@@ -1,1 +1,2 @@
 D:\GitRepository\C\test\Debug\test.exe
+D:\GitRepository\StudyC\test\Debug\test.exe

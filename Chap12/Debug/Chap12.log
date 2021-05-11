@@ -1,2 +1,4 @@
-﻿  exercise.c
-  Chap12.vcxproj -> D:\GitRepository\C\test\Debug\Chap12.exe
+﻿  12-13.c
+c1 : fatal error C1083: 소스 파일을 열 수 없습니다. '12-13.c': No such file or directory
+  exercise.c
+  코드를 생성하고 있습니다...

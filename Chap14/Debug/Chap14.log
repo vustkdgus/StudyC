@@ -1,2 +1,4 @@
-﻿  14-7.c
-  Chap14.vcxproj -> D:\GitRepository\C\test\Debug\Chap14.exe
+﻿  14-test-2.c
+D:\GitRepository\StudyC\Chap14\14-test-2.c(28,16): warning C4048: 배열 첨자가 다릅니다. 'int (*)[5]'과(와) 'int [5][4]'
+D:\GitRepository\StudyC\Chap14\14-test-2.c(47,21): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+  Chap14.vcxproj -> D:\GitRepository\StudyC\test\Debug\Chap14.exe
