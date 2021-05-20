@@ -1,3 +1,1 @@
-﻿  8-7.c
-D:\GitRepository\StudyC\Chap8\8-7.c(9,15): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
-  Chap8.vcxproj -> D:\GitRepository\StudyC\test\Debug\Chap8.exe
+﻿  Chap8.vcxproj -> D:\GitRepository\StudyC\test\Debug\Chap8.exe
