@@ -1,4 +1,1 @@
-﻿  배열테스트.c
-D:\GitRepository\StudyC\test\배열테스트.c(16,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char **'입니다.
-D:\GitRepository\StudyC\test\배열테스트.c(7,1): warning C4047: '초기화 중': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
-  test.vcxproj -> D:\GitRepository\StudyC\test\Debug\test.exe
+﻿  test.vcxproj -> D:\GitRepository\StudyC\test\Debug\test.exe
